@@ -8,7 +8,7 @@ plugins {
 
 apollo {
     service("service") {
-        packageName.set("com.plcoding")
+        packageName.set("com.plcoding.graphqlcountriesapp")
     }
 }
 
